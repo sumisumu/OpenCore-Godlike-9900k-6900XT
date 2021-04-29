@@ -52,10 +52,6 @@ OpenCore Configuration Sanity Checker
 Known issues
 Open: None.
 
-Resolved:
-
- Fenvi T-919 WiFi + Bluetooth 4.0 BCM94360CD started having issues mid-autumn 2020:
-
 After shut down and then powering on PC again, Bluetooth will not work when logged in to macOS. However, it's fine at earlier stages, e.g. when typing password during the boot. Workaround: unplug and plug power cord after the shutdown.
 Keyboard and trackpad were working unstable from time to time (input garbage, freezes). Workaround: power cycle keyboard and trackpad, reboot.
 Solution: (06-Dec-2020) Replaced Fenvi T-919 WiFi + Bluetooth 4.0 BCM94360CD with Fenvi HB1200 WiFi + Bluetooth 4.0 BCM4360.
