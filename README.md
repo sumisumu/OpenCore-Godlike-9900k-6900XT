@@ -1,5 +1,5 @@
 # OpenCore-M11G-6900XT
-OpenCore-ASUS-ROG-MAXIMUS-XI-GENE
+
 OpenCore configuration for ASUS ROG MAXIMUS XI GENE and helper script to create EFI directory.
 
 Table of Contents
