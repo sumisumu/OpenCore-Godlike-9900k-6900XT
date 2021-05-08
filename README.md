@@ -64,7 +64,7 @@ You may find great installation guide [here](https://dortania.github.io/OpenCore
 
 - [x] [itlwm.kext]https://github.com/OpenIntelWireless/itlwm) 
 - [x] [IntelBluetoothFirmware.kext]https://github.com/OpenIntelWireless/IntelBluetoothFirmware
-  You can use this kexts drive your Intel WiFi & Bluetooth Card
+- [ ] You can use this kexts drive your Intel WiFi & Bluetooth Card
 
   
 
