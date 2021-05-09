@@ -1,6 +1,6 @@
 # OpenCore-ASUS-ROG-MAXIMUS-XI-GENE
 
-OpenCore configuration for ASUS ROG MAXIMUS XI HEROGENE and helper script to create EFI directory.
+OpenCore configuration for ASUS ROG MAXIMUS XI GENE and helper script to create EFI directory.
 
 ## Table of Contents
 
